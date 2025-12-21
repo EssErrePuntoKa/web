@@ -1,6 +1,6 @@
-# Support - Grit Your Dreams
+# Support - Grit Ur Dreams
 
-Welcome to the Grit Your Dreams support page. Whether you have questions, need troubleshooting help, or want to understand your data, you'll find answers here.
+Welcome to the Grit Ur Dreams support page. Whether you have questions, need troubleshooting help, or want to understand your data, you'll find answers here.
 
 ---
 
@@ -27,9 +27,9 @@ Welcome to the Grit Your Dreams support page. Whether you have questions, need t
 
 ### General Questions
 
-**Q: What is Grit Your Dreams?**
+**Q: What is Grit Ur Dreams?**
 
-A: Grit Your Dreams is a consciousness development tool designed for analytical thinkers pursuing complex, long-term mastery projects. After five years of testing 17,000+ sessions, we discovered it's more than a productivity app—it's a mirror reflecting how you actually live. You track your sessions, and over time, you decrypt the story hidden in your own data.
+A: Grit Ur Dreams is a consciousness development tool designed for analytical thinkers pursuing complex, long-term mastery projects. After five years of testing 17,000+ sessions, we discovered it's more than a productivity app—it's a mirror reflecting how you actually live. You track your sessions, and over time, you decrypt the story hidden in your own data.
 
 **Q: How is this different from other productivity apps?**
 
@@ -133,14 +133,14 @@ A: Yes. Backup happens automatically when you:
 To manually back up:
 1. Go to Settings (right tab)
 2. Tap "Export Data"
-3. Choose your export format (JSON or CSV)
+3. Choose your export format (Realm or JSON)
 4. Share to email, cloud storage, or save locally
 
 **Q: Can I export my data?**
 
 A: Yes, absolutely. This is one of your rights.
 1. Go to Settings → "Export Data"
-2. Choose JSON (complete, including all metadata) or CSV (spreadsheet format)
+2. Choose Realm or JSON (complete, including all metadata)
 3. Share to email, Messages, or cloud storage
 4. See [Export Your Data](#export-your-data) for detailed instructions
 
