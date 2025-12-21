@@ -1,4 +1,4 @@
-# Privacy Policy - Grit Your Dreams
+# Privacy Policy - Grit Ur Dreams
 
 **Last Updated:** December 2025
 
@@ -6,11 +6,11 @@
 
 ## ENGLISH VERSION
 
-### Privacy Policy for Grit Your Dreams
+### Privacy Policy for Grit Ur Dreams
 
 #### 1. Overview
 
-Grit Your Dreams ("the App") is built on a foundation of privacy-first design. Your data belongs to you. We do not collect, store, transmit, or analyze your personal information on external servers.
+Grit Ur Dreams ("the App") is built on a foundation of privacy-first design. Your data belongs to you. We do not collect, store, transmit, or analyze your personal information on external servers.
 
 #### 2. What Data We Collect
 
@@ -103,11 +103,11 @@ If you have privacy questions or concerns:
 
 ## 日本語版 (JAPANESE VERSION)
 
-### Grit Your Dreams プライバシーポリシー
+### Grit Ur Dreams プライバシーポリシー
 
 #### 1. 概要
 
-Grit Your Dreams（「本アプリ」）は、プライバシーファーストの設計に基づいて構築されています。あなたのデータはあなたのものです。当社は、外部サーバーで個人情報を収集、保存、送信、または分析することはありません。
+Grit Ur Dreams（「本アプリ」）は、プライバシーファーストの設計に基づいて構築されています。あなたのデータはあなたのものです。当社は、外部サーバーで個人情報を収集、保存、送信、または分析することはありません。
 
 #### 2. 収集するデータ
 
@@ -200,11 +200,11 @@ Grit Your Dreams（「本アプリ」）は、プライバシーファースト�
 
 ## VERSIÓN EN ESPAÑOL (SPANISH VERSION)
 
-### Política de Privacidad de Grit Your Dreams
+### Política de Privacidad de Grit Ur Dreams
 
 #### 1. Descripción General
 
-Grit Your Dreams ("la Aplicación") se construye sobre una base de diseño de privacidad primero. Tus datos te pertenecen. No recopilamos, almacenamos, transmitimos ni analizamos tu información personal en servidores externos.
+Grit Ur Dreams ("la Aplicación") se construye sobre una base de diseño de privacidad primero. Tus datos te pertenecen. No recopilamos, almacenamos, transmitimos ni analizamos tu información personal en servidores externos.
 
 #### 2. Qué Datos Recopilamos
 
