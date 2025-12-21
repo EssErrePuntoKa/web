@@ -33,7 +33,7 @@ A: Grit Ur Dreams is a consciousness development tool designed for analytical th
 
 **Q: How is this different from other productivity apps?**
 
-A: Most productivity apps use gamification, notifications, and engagement tricks to keep you using them. Grit Your Dreams does the opposite. We offer:
+A: Most productivity apps use gamification, notifications, and engagement tricks to keep you using them. Grit Ur Dreams does the opposite. We offer:
 - No notifications or badges
 - No analytics surveillance
 - No cloud dependency
@@ -44,7 +44,7 @@ We're designed for people who value depth, consistency, and self-understanding.
 
 **Q: Who should use this app?**
 
-A: Grit Your Dreams is ideal for you if you:
+A: Grit Ur Dreams is ideal for you if you:
 - Prefer systematic thinking
 - Value depth over speed
 - Want to understand yourself more deeply
@@ -73,9 +73,9 @@ A:
 **Q: How do I create a new category?**
 
 A:
-1. Go to Settings (right tab)
-2. Tap "Manage Categories"
-3. Tap the "+" button
+1. Go to Settings tab
+2. Tap "Category Management"
+3. Tap the "Manage Categories" then "+Creat New Category"
 4. Enter your category name (e.g., "Reading", "Programming", "Fitness")
 5. Tap "Create"
 
@@ -85,12 +85,12 @@ Categories are best used for broad areas of focus (languages, instruments, sport
 
 A:
 1. Go to Settings (right tab)
-2. Tap "Manage Activities"
-3. Tap the "+" button
-4. Select which category this activity belongs to
-5. Enter the activity name (e.g., "Bach's Partita No. 1", "Python Fundamentals")
-6. Set the activity type if desired
-7. Tap "Create"
+2. Tap "Activity Management"
+3. Select which category this activity belongs to and tap "+ Add New Activity"
+4. Enter the activity name (e.g., "Bach's Partita No. 1", "Python Fundamentals")
+6. Tap "Create"
+
+Note: Additional information about an activity in parenthesis would work to add further meaning to it.
 
 Activities are specific skills or projects within a category.
 
@@ -174,7 +174,7 @@ A: You get 50 free sessions. Try the app fully before committing to a subscripti
 
 **Q: Can I cancel my subscription anytime?**
 
-A: Yes. Go to Settings (iPhone Settings, not the app) → Subscriptions → Grit Your Dreams → Cancel. Your access continues until the renewal date.
+A: Yes. Go to Settings (iPhone Settings, not the app) → Subscriptions → Grit Ur Dreams → Cancel. Your access continues until the renewal date.
 
 ---
 
@@ -252,13 +252,13 @@ A: Check:
 
 ### How to Export
 
-**Step 1:** Go to Settings (right tab)
+**Step 1:** Go to Settings tab
 
-**Step 2:** Tap "Export Data"
+**Step 2:** Tap "Data Management"
 
 **Step 3:** Choose your format:
+- **Realm:** Complete export with all metadata (recommended)
 - **JSON:** Complete export with all metadata (recommended)
-- **CSV:** Spreadsheet format (good for Excel analysis)
 
 **Step 4:** Share or save
 - Email to yourself
@@ -319,7 +319,7 @@ Email: [your-email@example.com]
 
 Please include:
 1. What version of iOS you're running
-2. What version of Grit Your Dreams you're using (Settings → About)
+2. What version of Grit Ur Dreams you're using (Settings → About)
 3. A description of your issue
 4. Steps to reproduce the issue (if applicable)
 
@@ -334,7 +334,7 @@ We're always listening to users. If you have:
 - **Feature ideas:** Email us
 - **General feedback:** Email us
 
-Your input helps shape the future of Grit Your Dreams.
+Your input helps shape the future of Grit Ur Dreams.
 
 ---
 
@@ -363,7 +363,7 @@ Your input helps shape the future of Grit Your Dreams.
 
 ### 一般的な質問
 
-**Q: Grit Your Dreamsとは何ですか？**
+**Q: Grit Ur Dreamsとは何ですか？**
 
 A: 週末や長い休みの前に過ごし方を計画しながら、思ったようにいかなかったことはありませんか。Grit Ur Dreamsはさまざまな課題に取り組み過ぎていった１日の終わりに、軌跡を振り返るべく開発されたツールです。５年に渡りテスト記録を続けた結果、生産性向上にとどまるものではなく、記録者自身の生き様を映す鏡に近い働きをすることが判明しました。
 
@@ -511,7 +511,7 @@ A: メール：[your-email@example.com]
 
 以下を含めてください：
 1. 実行しているiOSバージョン
-2. 使用しているGrit Your Dreamsのバージョン（設定 → 情報）
+2. 使用しているGrit Ur Dreamsのバージョン（設定 → 情報）
 3. 問題の説明
 4. 問題を再現するステップ（該当する場合）
 
@@ -538,11 +538,11 @@ A: メール：[your-email@example.com]
 
 **P: ¿Qué es Grit Ur Dreams?**
 
-R: Grit Your Dreams es una herramienta de desarrollo de conciencia diseñada para pensadores analíticos que persiguen proyectos de dominio complejos y a largo plazo. Después de cinco años de prueba de 17,000+ sesiones, descubrimos que es más que una aplicación de productividad—es un espejo que refleja cómo realmente vives. Rastreas tus sesiones y, con el tiempo, descodificas la historia oculta en tus propios datos.
+R: Grit Ur Dreams es una herramienta de desarrollo de conciencia diseñada para pensadores analíticos que persiguen proyectos de dominio complejos y a largo plazo. Después de cinco años de prueba de 17,000+ sesiones, descubrimos que es más que una aplicación de productividad—es un espejo que refleja cómo realmente vives. Rastreas tus sesiones y, con el tiempo, descodificas la historia oculta en tus propios datos.
 
 **P: ¿En qué se diferencia esto de otras aplicaciones de productividad?**
 
-R: La mayoría de las aplicaciones de productividad utilizan gamificación, notificaciones y trucos de engagement para mantenerte usando la aplicación. Grit Your Dreams hace lo opuesto. Ofrecemos:
+R: La mayoría de las aplicaciones de productividad utilizan gamificación, notificaciones y trucos de engagement para mantenerte usando la aplicación. Grit Ur Dreams hace lo opuesto. Ofrecemos:
 - Sin notificaciones ni insignias
 - Sin vigilancia analítica
 - Sin dependencia en la nube
@@ -553,7 +553,7 @@ Estamos diseñados para personas que valoran la profundidad, la consistencia y l
 
 **P: ¿Para quién es esta aplicación?**
 
-R: Grit Your Dreams es ideal para ti si:
+R: Grit Ur Dreams es ideal para ti si:
 - Prefieres el pensamiento sistemático
 - Valoras la profundidad sobre la velocidad
 - Quieres entenderte a ti mismo más profundamente
@@ -571,11 +571,11 @@ R: Sí, completamente. Todos tus datos se almacenan SOLO en tu iPhone. Nunca dej
 **P: ¿Cómo inicio mi primera sesión?**
 
 R:
-1. Ve a Dashboard (pestaña de inicio)
+1. Ve a Dashboard pestaña
 2. Selecciona una categoría (o crea una si no tienes ninguna)
 3. Selecciona una actividad dentro de esa categoría
 4. Toca la duración del tiempo para establecer cuánto tiempo deseas trabajar
-5. Toca el botón de reproducción azul para comenzar
+5. Toca el botón de reproducción para comenzar
 6. Trabaja durante la duración que estableciste
 7. Cuando hayas terminado, la aplicación te pedirá que lo marques como completado
 
@@ -583,8 +583,8 @@ R:
 
 R:
 1. Ve a Configuración (pestaña derecha)
-2. Toca "Administrar Categorías"
-3. Toca el botón "+"
+2. Toca "Gestión de Categorías"
+3. Toca el botón "+ Crear Nueva Categoría"
 4. Ingresa el nombre de tu categoría (por ejemplo, "Lectura", "Programación", "Fitness")
 5. Toca "Crear"
 
@@ -593,8 +593,8 @@ Las categorías se usan mejor para áreas amplias de enfoque (idiomas, instrumen
 **P: ¿Puedo exportar mis datos?**
 
 R: Sí, absolutamente. Este es uno de tus derechos.
-1. Ve a Configuración → "Exportar Datos"
-2. Elige JSON (completo, con todos los metadatos) o CSV (formato de hoja de cálculo)
+1. Ve a Configuración → "Gestión de Datos"
+2. Elige Realm o JSON (completo, con todos los metadatos)
 3. Comparte por correo electrónico, mensajes o almacenamiento en la nube
 4. Consulta la sección [Exportar Tus Datos](#exportar-tus-datos) para obtener instrucciones detalladas
 
@@ -675,7 +675,7 @@ Correo electrónico: [your-email@example.com]
 
 Por favor incluye:
 1. Qué versión de iOS estás ejecutando
-2. Qué versión de Grit Your Dreams estás usando (Configuración → Acerca de)
+2. Qué versión de Grit Ur Dreams estás usando (Configuración → Acerca de)
 3. Una descripción de tu problema
 4. Pasos para reproducir el problema (si aplica)
 
@@ -686,8 +686,8 @@ Leemos todos los correos electrónicos y responderemos dentro de 48 horas.
 ## Enlaces
 
 - [Política de Privacidad](PRIVACY_POLICY.md)
-- [Repositorio de GitHub](https://github.com/grit-your-dreams/grit-your-dreams)
-- [App Store](https://apps.apple.com/app/grit-your-dreams/...)
+- [Repositorio de GitHub](https://esserrepuntoka.github.io/web/)
+- [App Store](https://apps.apple.com/app/grit-ur-dreams/...)
 
 ---
 
