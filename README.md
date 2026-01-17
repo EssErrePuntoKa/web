@@ -1,6 +1,6 @@
 # Grit Ur Dreams
 
-[Logo/Screenshot]
+<img width="1024" height="1024" alt="light" src="https://github.com/user-attachments/assets/71f00b18-6d2f-4bcc-9f80-d427a93467ce" />
 
 ## Consciousness Technology. Refined over 5+ years.
 
