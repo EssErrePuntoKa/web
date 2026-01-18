@@ -96,8 +96,7 @@ We may update this Privacy Policy occasionally. Changes will be posted here with
 #### 11. Contact Us
 
 If you have privacy questions or concerns:
-- Email: [your-email@example.com]
-- GitHub: [your-github-repo-url]
+- Email: [s_kanai@icloud.com]
 
 ---
 
@@ -179,7 +178,7 @@ Grit Ur Dreams（「本アプリ」）は、プライバシーファーストの
 - 当社はGDPRの意味で個人データを処理しません
 - 当社はデータをあなたのデバイスの外に転送しません
 - あなたは完全なデータポータビリティを持っています（エクスポート経由）
-- アプリをアンインストールにあわせ、データの削除は自動的に行われます
+- アプリをアンインストールする際に、データは自動的に削除されます
 
 **CCPA準拠（カリフォルニア州）：**
 - 当社は個人情報を販売しません
@@ -290,8 +289,7 @@ Podemos actualizar esta Política de Privacidad ocasionalmente. Los cambios se p
 #### 11. Contáctanos
 
 Si tienes preguntas o inquietudes sobre privacidad:
-- Correo electrónico: [your-email@example.com]
-- GitHub: [your-github-repo-url]
+- Correo electrónico: [s_kanai@icloud.com]
 
 ---
 
