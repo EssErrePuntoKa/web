@@ -1,57 +1,231 @@
 # Privacy Policy - Grit Ur Dreams
 
-**Last Updated:** December 2025
+**Last Updated:** January 31, 2026
 
 ---
 
-## ENGLISH VERSION
+## 🌍 Language / 言語 / Idioma
 
-### Privacy Policy for Grit Ur Dreams
+- [English](#english)
+- [日本語](#japanese)
+- [Español](#spanish)
 
-#### 1. Overview
+---
 
-Grit Ur Dreams ("the App") is built on a foundation of privacy-first design. Your data belongs to you. We do not collect, store, transmit, or analyze your personal information on external servers.
+## ENGLISH {#english}
 
-#### 2. What Data We Collect
+### 1. Introduction
 
-**The App Collects:**
-- Activity names you create
-- Category names you create
-- Session records (start time, end time, duration)
-- Your notes and descriptions
-- Settings and preferences you configure
+Grit Ur Dreams ("App") is committed to protecting your privacy. This Privacy Policy explains how we handle your information.
 
-**This data is stored ONLY on your iPhone device.** It never leaves your phone.
+### 2. Data We Collect
 
-#### 3. Where Your Data Is Stored
+**Local Data Only:**
+- Activity sessions and duration
+- User preferences and settings
+- Category and activity information
+- Session completion data
 
-- **Local Device Storage:** All your data is stored in Realm database on your iPhone
-- **No Cloud Sync:** Your data is never synchronized to cloud servers
-- **No Remote Backup:** We do not backup your data to external servers
-- **You Control It:** You have complete access to your data and can export it anytime
+**NO Cloud Storage:**
+- All data is stored exclusively on your device
+- No data is transmitted to our servers
+- No cloud synchronization
 
-#### 4. What We Do NOT Collect
+### 3. How We Use Your Data
 
-We explicitly do NOT collect:
-- ❌ Browsing history
-- ❌ Location data
-- ❌ Device identifiers
-- ❌ IP addresses
-- ❌ Analytics or usage metrics
-- ❌ Personal information (name, email, phone)
-- ❌ Health or fitness data (beyond what you manually record)
-- ❌ Any form of surveillance data
+Your data is used solely for:
+- Displaying your personal statistics
+- Tracking your progress
+- Providing app functionality
+- Improving the app experience locally
 
-#### 5. Third-Party Services
+### 4. Data Security
 
-The App does NOT use:
-- ❌ Analytics services (Google Analytics, Mixpanel, etc.)
-- ❌ Crash reporting services (Firebase, Crashlytics, etc.)
-- ❌ Advertising networks
-- ❌ Social media integrations
-- ❌ Cloud storage services (iCloud sync, AWS, Google Drive, etc.)
-- ❌ Third-party SDKs that collect data
+- All data remains on your device
+- No transmission over the internet (except for App Store subscription verification)
+- No access by third parties
+- You have complete control and ownership
 
+### 5. Subscription Information
+
+When you subscribe:
+- Apple handles payment processing
+- We verify subscription status with Apple's servers
+- Your subscription data is managed by Apple's StoreKit 2
+- We only store the expiration date locally
+
+### 6. No Tracking or Analytics
+
+- We do NOT collect analytics
+- We do NOT track your behavior
+- We do NOT use third-party tracking services
+- We do NOT create user profiles
+
+### 7. Third-Party Services
+
+- **Apple StoreKit 2:** For subscription management only
+- No other third-party integrations
+- No data sharing with external services
+
+### 8. Data Deletion
+
+You can delete all your data by:
+- Uninstalling the app (all local data is removed)
+- Your subscription data with Apple remains in Apple's system
+
+### 9. Changes to This Policy
+
+We may update this policy at any time. Continued use of the App constitutes acceptance of changes.
+
+### 10. Contact
+
+For privacy questions, please contact the developer through the App Store.
+
+---
+
+## 日本語 {#japanese}
+
+### 1. はじめに
+
+Grit Ur Dreams（以下「本アプリ」）は、あなたのプライバシー保護に取り組んでいます。本プライバシーポリシーは、当社があなたの情報をどのように処理するかを説明しています。
+
+### 2. 収集するデータ
+
+**ローカルデータのみ：**
+- アクティビティセッションと期間
+- ユーザー設定とオプション
+- カテゴリーとアクティビティ情報
+- セッション完了データ
+
+**クラウドストレージなし：**
+- すべてのデータはあなたのデバイスのみに保存されます
+- 当社のサーバーへのデータ送信はありません
+- クラウド同期はありません
+
+### 3. データの使用方法
+
+あなたのデータは以下の目的でのみ使用されます：
+- あなたの個人統計の表示
+- あなたの進捗状況の追跡
+- アプリ機能の提供
+- ローカルでのアプリ体験の向上
+
+### 4. データセキュリティ
+
+- すべてのデータはあなたのデバイスに保存されます
+- インターネット経由の送信なし（App Storeのサブスクリプション検証を除く）
+- 第三者によるアクセスなし
+- あなたが完全な管理と所有権を持ちます
+
+### 5. サブスクリプション情報
+
+サブスクリプション時：
+- Appleが支払い処理を実行します
+- Apple のサーバーでサブスクリプションステータスを検証します
+- あなたのサブスクリプションデータはAppleのStoreKit 2により管理されます
+- 当社は有効期限をローカルに保存するのみです
+
+### 6. トラッキングおよびアナリティクスなし
+
+- アナリティクスは収集しません
+- あなたの行動をトラッキングしません
+- 第三者のトラッキングサービスを使用しません
+- ユーザープロフィールを作成しません
+
+### 7. 第三者サービス
+
+- **Apple StoreKit 2:** サブスクリプション管理のみ
+- その他の第三者統合なし
+- 外部サービスへのデータ共有なし
+
+### 8. データ削除
+
+以下の方法であなたのすべてのデータを削除できます：
+- アプリをアンインストール（すべてのローカルデータが削除されます）
+- AppleとのサブスクリプションデータはAppleのシステムに残ります
+
+### 9. 本ポリシーへの変更
+
+当社は随時本ポリシーを更新する場合があります。本アプリの継続使用は、変更の受け入れを意味します。
+
+### 10. お問い合わせ
+
+プライバシーに関するご質問は、App Storeを通じて開発者にお問い合わせください。
+
+---
+
+## Español {#spanish}
+
+### 1. Introducción
+
+Grit Ur Dreams (la "Aplicación") se compromete a proteger su privacidad. Esta Política de Privacidad explica cómo manejamos su información.
+
+### 2. Datos que Recopilamos
+
+**Solo Datos Locales:**
+- Sesiones de actividad y duración
+- Preferencias y configuración del usuario
+- Información de categoría y actividad
+- Datos de finalización de sesión
+
+**SIN Almacenamiento en la Nube:**
+- Todos los datos se almacenan exclusivamente en su dispositivo
+- No hay transmisión de datos a nuestros servidores
+- No hay sincronización en la nube
+
+### 3. Cómo Usamos Sus Datos
+
+Sus datos se utilizan únicamente para:
+- Mostrar sus estadísticas personales
+- Rastrear su progreso
+- Proporcionar la funcionalidad de la aplicación
+- Mejorar la experiencia de la aplicación localmente
+
+### 4. Seguridad de Datos
+
+- Todos los datos permanecen en su dispositivo
+- Sin transmisión a través de Internet (excepto para la verificación de suscripción de la App Store)
+- Sin acceso de terceros
+- Usted tiene control total y propiedad
+
+### 5. Información de Suscripción
+
+Cuando se suscribe:
+- Apple gestiona el procesamiento de pagos
+- Verificamos el estado de la suscripción con los servidores de Apple
+- Sus datos de suscripción se gestionan mediante StoreKit 2 de Apple
+- Solo almacenamos la fecha de vencimiento localmente
+
+### 6. Sin Seguimiento ni Análisis
+
+- NO recopilamos análisis
+- NO rastreamos su comportamiento
+- NO utilizamos servicios de seguimiento de terceros
+- NO creamos perfiles de usuario
+
+### 7. Servicios de Terceros
+
+- **Apple StoreKit 2:** Solo para gestión de suscripciones
+- Sin otras integraciones de terceros
+- Sin compartir datos con servicios externos
+
+### 8. Eliminación de Datos
+
+Puede eliminar todos sus datos por:
+- Desinstalar la aplicación (todos los datos locales se eliminan)
+- Sus datos de suscripción con Apple permanecen en el sistema de Apple
+
+### 9. Cambios en Esta Política
+
+Podemos actualizar esta política en cualquier momento. El uso continuado de la Aplicación constituye la aceptación de cambios.
+
+### 10. Contacto
+
+Para preguntas sobre privacidad, comuníquese con el desarrollador a través de la App Store.
+
+---
+
+**Effective Date / 発効日 / Fecha Efectiva:** January 31, 2026 / 2026年1月31日
 #### 6. Data Export & Ownership
 
 - **You Own Your Data:** 100% of your session data, activities, and achievements belong to you
