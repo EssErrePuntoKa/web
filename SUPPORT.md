@@ -174,7 +174,7 @@ A: You get 50 free sessions. Try the app fully before committing to a subscripti
 
 **Q: Can I cancel my subscription anytime?**
 
-A: Yes. Go to Settings (iPhone Settings, not the app) → Subscriptions → Grit Ur Dreams → Cancel. Your access continues until the renewal date.
+A: Yes. Go to Settings (iPhone Settings, not the app) → Subscriptions → Cancel Subscription. Your access continues until the renewal date.
 
 ---
 
@@ -194,7 +194,7 @@ A:
 
 A:
 1. Make sure you've set a duration (default is usually 16 minutes or whatever you customized)
-2. Tap the play button (blue button on the right)
+2. Tap the play button (button on the right)
 3. Don't close the app while the timer is running—it will pause
 4. If the timer seems to reset, it might be a display glitch. Check History to confirm your session was logged
 
@@ -315,9 +315,9 @@ We cannot protect against:
 
 **Have a question not answered here?**
 
-Email: [your-email@example.com]
+Please consider subsribing Premium （unlimited tracking and support contact).
 
-Please include:
+Please let us know following information:
 1. What version of iOS you're running
 2. What version of Grit Ur Dreams you're using (Settings → About)
 3. A description of your issue
@@ -464,7 +464,7 @@ A:
 
 A:
 1. 期間を設定したことを確認（デフォルトは通常16分または設定したもの）
-2. プレイボタン（右の青いボタン）をタップ
+2. プレイボタン（右のボタン）をタップ
 
 **Q: アプリ内でのお問い合わせ**
 
@@ -507,9 +507,9 @@ A: メール：[your-email@example.com]
 
 **ここに答えがない質問がありますか？**
 
-メール：[s_kanai@icloud.com]
+プレミアムプランへ（無制限のトラッキングとサポート含む）のアップデートをご検討ください。
 
-以下を含めてください：
+お問い合わせの際は以下を含めてください：
 1. 実行しているiOSバージョン
 2. 使用しているGrit Ur Dreamsのバージョン（設定 → 情報）
 3. 問題の説明
@@ -632,7 +632,7 @@ R:
 
 **P: Tengo una pregunta**
 
-R: Correo electrónico: [your-email@example.com]
+R: Considere suscribirse a Premium (seguimiento ilimitado y contacto de soporte).
 
 ---
 
