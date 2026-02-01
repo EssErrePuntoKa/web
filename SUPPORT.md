@@ -59,17 +59,6 @@ A: Yes, completely. All your data is stored ONLY on your iPhone. It never leaves
 
 ### Using the App
 
-**Q: How do I start my first session?**
-
-A: 
-1. Go to Dashboard (home tab)
-2. Select a category (or create one if you don't have any)
-3. Select an activity within that category
-4. Tap the time duration to set how long you want to work
-5. Tap the blue play button to start
-6. Work for the duration you set
-7. When done, the app will prompt you to mark it as complete
-
 **Q: How do I create a new category?**
 
 A:
@@ -89,6 +78,17 @@ A:
 3. Select which category this activity belongs to and tap "+ Add New Activity"
 4. Enter the activity name (e.g., "Bach's Partita No. 1", "Python Fundamentals")
 6. Tap "Create"
+
+**Q: How do I start my first session?**
+
+A: 
+1. Go to Dashboard (home tab)
+2. Select a category (or create one if you don't have any)
+3. Select an activity within that category
+4. Tap the time duration to set how long you want to work
+5. Tap the play button to start
+6. Work for the duration you set
+7. When done, the app will inform you of the completion
 
 Note: Additional information about an activity in parenthesis would work to add further meaning to it.
 
@@ -369,16 +369,16 @@ A: 週末や長い休みの前に過ごし方を計画しながら、思った�
 
 **Q: これは他の生産性アプリと何が違いますか？**
 
-A: ほとんどの生産性アプリはゲーム性を取り入れたら、通知、エンゲージメントの錯覚を使用してあなたにアプリを使い続けさせます。Grit Ur Dreamsはその逆です。我々は以下を提供します：
+A: ほとんどの生産性アプリはゲーム性を取り入れたり、通知やエンゲージメントの錯覚を使用してユーザーにアプリを使い続けるように工夫します。Grit Ur Dreamsはその逆のアプローチを採用し、以下の機能を提供いたします：
 - 最小限の通知。バッジシステム不採用
 - 分析監視なし
 - クラウド依存なし
 - すべてのデータがあなたのデバイスに留まる
 - 極めてシンプルなインターフェース
 
-深さ、一貫性、自己理解を大切にする人のために設計されています。
+深さや一貫性、自己理解を大切にする人のために設計されています。
 
-**Q: 誰がこのアプリを使うべきですか？**
+**Q: このアプリはどんなユーザーに向いていますか？**
 
 A: Grit Ur Dreamsは、以下に当てはまる方に理想的です：
 - 体系的な思考を好む
@@ -395,24 +395,13 @@ A: はい、完全に非公開です。すべてのデータはあなたのiPhon
 
 ### アプリの使用
 
-**Q: 最初のセッションを開始するにはどうすればよいですか？**
-
-A:
-1. ダッシュボードタブに移動
-2. カテゴリを選択（まだ何もない場合は作成）
-3. そのカテゴリ内のアクティビティを選択
-4. 時間をタップして作業時間を設定
-5. 青いプレイボタンをタップして開始
-6. 設定した期間働く
-7. 完了すると、アプリが完了としてマークするよう促します
-
 **Q: 新しいカテゴリを作成するにはどうすればよいですか？**
 
 A:
 1. 設定タブに移動
 2. 「カテゴリ管理」をタップ
 4. 「+新しいカテゴリを作成」をタップ
-5. カテゴリ名を入力（例：「読書」、「プログラミング」、「フィットネス」）
+5. カテゴリ名を入力（例：「読書」、「演奏技術」）
 6. 「作成」をタップ
 
 カテゴリは焦点の広い領域に対応する概念です（言語、楽器、スポーツ、研究分野）。
@@ -427,6 +416,17 @@ A:
 5. 「作成」をタップ
 
 アクティビティはカテゴリ内の特定の活動に対応する概念です。
+
+**Q: 最初のセッションを開始するにはどうすればよいですか？**
+
+A:
+1. ダッシュボードタブに移動
+2. カテゴリを選択
+3. アクティビティを選択
+4. 時間をタップして作業時間を設定
+5. プレイボタンをタップして開始
+6. 設定した期間働く
+7. 完了すると、アプリが完了としてマークするよう促します
 
 **Q: データをエクスポートできますか？**
 
@@ -568,6 +568,15 @@ R: Sí, completamente. Todos tus datos se almacenan SOLO en tu iPhone. Nunca dej
 
 ### Usando la Aplicación
 
+**P: ¿Cómo creo una nueva categoría?**
+
+R:
+1. Ve a Configuración (pestaña derecha)
+2. Toca "Gestión de Categorías"
+3. Toca el botón "+ Crear Nueva Categoría"
+4. Ingresa el nombre de tu categoría (por ejemplo, "Lectura", "Programación", "Fitness")
+5. Toca "Crear", Luego cree una actividad tocando "Gestion de Actividades".
+
 **P: ¿Cómo inicio mi primera sesión?**
 
 R:
@@ -577,16 +586,8 @@ R:
 4. Toca la duración del tiempo para establecer cuánto tiempo deseas trabajar
 5. Toca el botón de reproducción para comenzar
 6. Trabaja durante la duración que estableciste
-7. Cuando hayas terminado, la aplicación te pedirá que lo marques como completado
+7. Cuando hayas terminado, la aplicación te imformará que la actividad se complete
 
-**P: ¿Cómo creo una nueva categoría?**
-
-R:
-1. Ve a Configuración (pestaña derecha)
-2. Toca "Gestión de Categorías"
-3. Toca el botón "+ Crear Nueva Categoría"
-4. Ingresa el nombre de tu categoría (por ejemplo, "Lectura", "Programación", "Fitness")
-5. Toca "Crear"
 
 Las categorías se usan mejor para áreas amplias de enfoque (idiomas, instrumentos, deportes, áreas de estudio).
 
